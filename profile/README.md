@@ -1,15 +1,27 @@
-# Быстрикс · Bystrix
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bystrix/cms/main/docs/assets/logo.svg" width="96" height="96" alt="Логотип Bystrix">
+</p>
 
-Открытая CMS для интернет-магазинов на Rust. Один исполняемый файл: веб-сервер, база, поиск, шаблоны, обмен с 1С и плагины.
+<h1 align="center">Быстрикс · Bystrix</h1>
 
-- **[cms](https://github.com/bystrix/cms)** — ядро и [спецификация](https://github.com/bystrix/cms/blob/main/docs/SPEC.md)
+<p align="center"><b>CMS для интернет-магазинов на Rust. Один бинарник — и больше ничего.</b><br>
+Веб-сервер, база, поиск, кэш, шаблоны, обмен с 1С и плагины в одном процессе.</p>
 
-Проект на стадии спецификации: кода ядра ещё нет. Замечания к спецификации принимаются в issues.
+<p align="center">
+  <img src="https://img.shields.io/badge/language-Rust-CE422B?logo=rust&logoColor=white" alt="Язык: Rust">
+  <img src="https://img.shields.io/badge/deploy-single_binary-2563EB" alt="Один бинарник">
+  <img src="https://img.shields.io/badge/status-specification-F59E0B" alt="Статус: спецификация">
+  <img src="https://img.shields.io/badge/license-MIT-555" alt="Лицензия MIT">
+</p>
 
-Лицензия MIT.
+<p align="center">
+  <b><a href="https://github.com/bystrix/cms">Репозиторий ядра</a></b> ·
+  <a href="https://github.com/bystrix/cms/blob/main/docs/SPEC.md">Спецификация</a> ·
+  <a href="https://github.com/bystrix/cms/blob/main/README.en.md">English</a>
+</p>
+
+Проект на стадии спецификации: кода ядра ещё нет. Замечания к спецификации принимаются в [issues](https://github.com/bystrix/cms/issues).
 
 ---
 
-*Bystrix is an open-source e-commerce CMS in Rust, shipped as a single binary. Specification stage.*
-
-Bystrix — независимый проект. Он не связан с ООО «1С-Битрикс»; товарный знак упоминается только для описания совместимости.
+<sub>Bystrix — независимый проект. Он не связан с ООО «1С-Битрикс»; товарный знак упоминается только для описания совместимости.</sub>
