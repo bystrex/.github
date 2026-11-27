@@ -1,28 +1,27 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bystrex/bystrex/main/assets/logo.svg" width="96" height="96" alt="Логотип Bystrex">
+  <img src="https://raw.githubusercontent.com/bystrex/bystrex/main/assets/logo.svg" width="96" height="96" alt="Bystrex logo">
 </p>
 
-<h1 align="center">Быстрекс · Bystrex</h1>
+<h1 align="center">Bystrex</h1>
 
-<p align="center"><b>Система управления сайтом на Rust, совместимая с 1С-Битрикс.</b><br>
-Сайты, порталы и каталоги: те же адреса страниц, те же данные, тот же обмен с 1С.<br>
-Один быстрый бинарник — веб-сервер, база, поиск, кэш, шаблоны и плагины в одном процессе.</p>
+<p align="center"><b>CMS in Rust, compatible with 1C-Bitrix.</b><br>
+Websites, portals and catalogs with the same page URLs, the same data and the same 1C exchange.<br>
+One fast binary: web server, database, search, cache, templates and plugins in a single process.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/language-Rust-CE422B?logo=rust&logoColor=white" alt="Язык: Rust">
-  <img src="https://img.shields.io/badge/deploy-single_binary-2563EB" alt="Один бинарник">
-  <img src="https://img.shields.io/badge/status-early_development-F59E0B" alt="Статус: ранняя разработка">
-  <img src="https://img.shields.io/badge/license-MIT-555" alt="Лицензия MIT">
+  <img src="https://img.shields.io/badge/language-Rust-CE422B?logo=rust&logoColor=white" alt="Language: Rust">
+  <img src="https://img.shields.io/badge/deploy-single_binary-2563EB" alt="Ships as a single binary">
+  <img src="https://img.shields.io/badge/license-MIT-555" alt="MIT license">
 </p>
 
 <p align="center">
-  <b><a href="https://github.com/bystrex/bystrex">Репозиторий</a></b> ·
+  <b><a href="https://github.com/bystrex/bystrex">Repository</a></b> ·
   <a href="https://bystrex.dev">bystrex.dev</a> ·
-  <a href="https://github.com/bystrex/bystrex/blob/main/README.en.md">English</a>
+  <a href="https://github.com/bystrex/bystrex/blob/main/README.ru.md">Русский</a>
 </p>
 
-Проект в начале пути: уже работают контентный сайт, импорт данных с прежними адресами, поиск и умный фильтр, плагины на JavaScript, MCP-сервер, админка той же структуры, что в 1С-Битрикс, перевод шаблонов и обмен с 1С. Баг-репорты и предложения — в [issues](https://github.com/bystrex/bystrex/issues).
+Content sites, data import with legacy URLs and redirects, full-text search and faceted filter, JavaScript plugins, an MCP server for AI agents, an admin panel with the same structure as 1C-Bitrix, template conversion and 1C exchange. Bug reports and ideas go to [issues](https://github.com/bystrex/bystrex/issues).
 
 ---
 
-<sub>Bystrex — независимый проект. Он не связан с ООО «1С-Битрикс»; товарный знак упоминается только для описания совместимости.</sub>
+<sub>Bystrex is an independent project, not affiliated with or endorsed by 1C-Bitrix LLC; the trademark is mentioned only to describe compatibility.</sub>
