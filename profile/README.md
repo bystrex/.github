@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bystrex/bystrex/main/assets/logo.svg" width="96" height="96" alt="Bystrex logo">
+  <img src="https://raw.githubusercontent.com/bystrex/.github/main/profile/logo.svg" width="96" height="96" alt="Bystrex logo">
 </p>
 
 <h1 align="center">Bystrex</h1>
